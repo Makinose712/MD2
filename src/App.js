@@ -5,6 +5,7 @@ import { RNCamera } from 'react-native-camera';
 import { useCamera } from 'react-native-camera-hooks';
 
 
+
 class App extends Component {
   state = {
     result: 'No result'
